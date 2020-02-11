@@ -27,27 +27,27 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "_create-iot-workbench-project.html",
-    "revision": "fbc9e3b57855ee779b9c09212dc5c8b5"
+    "revision": "0a8e0691e6522f9ed589c29bf92a773f"
   },
   {
     "url": "01-prepare-environment.html",
-    "revision": "22f118725be103a500ff33795d9385a7"
+    "revision": "4050ba43c39c2d682811d9dca3febf28"
   },
   {
     "url": "02-azure-function-detect-activity.html",
-    "revision": "5ff36dcd1cf33b5870da5c5541a0c7cb"
+    "revision": "b0a9a951152dfb4ce9d284f04f52b5e8"
   },
   {
     "url": "03-connect-iot-devices-hub.html",
-    "revision": "948472329d4d02bb60b70374ef0d1924"
+    "revision": "b014d1d259554936d3f642e21443c256"
   },
   {
     "url": "04-simulate-devices.html",
-    "revision": "aa7c4d8ee339b9a3ba125c6a79fbac56"
+    "revision": "9b388a9f6b7cafce395d7b20d6127621"
   },
   {
     "url": "404.html",
-    "revision": "3509b084575e68664a721ee28dbae637"
+    "revision": "9bad7ad30042fa18321ec94cd2aef7de"
   },
   {
     "url": "assets/css/0.styles.694f9356.css",
@@ -310,20 +310,20 @@ self.__precacheManifest = [
     "revision": "5e92d8c7634de49f1c4b890bf34411ca"
   },
   {
-    "url": "assets/js/11.395a8fe9.js",
-    "revision": "4eb3b618b92e41b0d162b060c7fe3ac6"
+    "url": "assets/js/11.b54b95bb.js",
+    "revision": "4c4600c9dd6a3ac83902c7a65f4f6f80"
   },
   {
     "url": "assets/js/12.3f0b14c3.js",
     "revision": "6ff63129612574f09cbabc79aae5b631"
   },
   {
-    "url": "assets/js/13.acee39a3.js",
-    "revision": "bf4822fb3f7cd288174766954d6788ea"
+    "url": "assets/js/13.8f7d69d8.js",
+    "revision": "04f3d989fedd44c79ea5589c142ccbfa"
   },
   {
-    "url": "assets/js/14.d2eaaf57.js",
-    "revision": "5361ee73d1458a0c59faa0ccae657a1f"
+    "url": "assets/js/14.3e43ca60.js",
+    "revision": "7bcfa42b7992e68cf2f5298d6699bcc9"
   },
   {
     "url": "assets/js/15.1b268ab3.js",
@@ -334,36 +334,36 @@ self.__precacheManifest = [
     "revision": "b47aee652a1c9715310ac2cc15045754"
   },
   {
-    "url": "assets/js/3.87fbb148.js",
-    "revision": "42f55e1123a73fde93075e8ef2174f68"
+    "url": "assets/js/3.091fb9b7.js",
+    "revision": "4f41a161a6d17f2beb521b1fceea738c"
   },
   {
-    "url": "assets/js/4.aeddfb89.js",
-    "revision": "1c91695396e59ac7b6dfaa074060290a"
+    "url": "assets/js/4.4f288e13.js",
+    "revision": "22944458644d808423750fc8590c170d"
   },
   {
-    "url": "assets/js/5.5ebc1b95.js",
-    "revision": "ee80b09ef3b4326c236fd0cc0bea85d3"
+    "url": "assets/js/5.effd8778.js",
+    "revision": "40b6f89bf8c351660d25f1cdffb2ea3d"
   },
   {
     "url": "assets/js/6.4bee7dc0.js",
     "revision": "b3d5c8a222d5dd7cd8f8681d9c473964"
   },
   {
-    "url": "assets/js/7.1d9e935a.js",
-    "revision": "789c3709a0df786d0a6d280edb125214"
+    "url": "assets/js/7.d03fab61.js",
+    "revision": "f504a8ea1da0699fd80b8827671f4e52"
   },
   {
-    "url": "assets/js/8.41f10b62.js",
-    "revision": "2a1ce88a1a0c0f8803a68e48b139bcdb"
+    "url": "assets/js/8.a57617a1.js",
+    "revision": "c27825f35ebb91c70eb1cb58ae5ef470"
   },
   {
     "url": "assets/js/9.16f58e21.js",
     "revision": "863ffe963967ba0a92270a7a206f5dd9"
   },
   {
-    "url": "assets/js/app.8afe2c33.js",
-    "revision": "4899b3d27b040967952a6b236be3e8e4"
+    "url": "assets/js/app.d37c7429.js",
+    "revision": "44f3885606afa7e8ed1237af47abd412"
   },
   {
     "url": "bit-iot.png",
@@ -371,19 +371,19 @@ self.__precacheManifest = [
   },
   {
     "url": "configure-wifi.html",
-    "revision": "f9cb1fcf0f2fe8ab693aaed0b226bdb0"
+    "revision": "d3425b2e4670c86c0b7b01301ba855c1"
   },
   {
     "url": "index.html",
-    "revision": "3380d4bdb2883c5e6b104ae9d04df5d6"
+    "revision": "13cb766e0eb812b3f7f0d4a3377bc981"
   },
   {
     "url": "proctor/faq.html",
-    "revision": "33f3307bb8c492f9554304c49a7d2c29"
+    "revision": "e969bbb764796e5ce64c59ab3c23f6c0"
   },
   {
     "url": "whats-next.html",
-    "revision": "a67da2f91f80d7c33260ab0e2bd272ac"
+    "revision": "73d114052695a9344611f384d02c0473"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
