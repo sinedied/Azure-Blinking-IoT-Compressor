@@ -27,27 +27,27 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "_create-iot-workbench-project.html",
-    "revision": "0a8e0691e6522f9ed589c29bf92a773f"
+    "revision": "dba166592b3a9fca94f91a2336edacca"
   },
   {
     "url": "01-prepare-environment.html",
-    "revision": "4050ba43c39c2d682811d9dca3febf28"
+    "revision": "6396508729f99e782474e4a15cf45c7b"
   },
   {
     "url": "02-azure-function-detect-activity.html",
-    "revision": "b0a9a951152dfb4ce9d284f04f52b5e8"
+    "revision": "1ecdede4e6ca96c93dee3d3b0cb6307b"
   },
   {
     "url": "03-connect-iot-devices-hub.html",
-    "revision": "b014d1d259554936d3f642e21443c256"
+    "revision": "d9d69809deed5c352bd2183ccecbe60e"
   },
   {
     "url": "04-simulate-devices.html",
-    "revision": "9b388a9f6b7cafce395d7b20d6127621"
+    "revision": "008d9001c945cc10842f40d0dc75a0c7"
   },
   {
     "url": "404.html",
-    "revision": "9bad7ad30042fa18321ec94cd2aef7de"
+    "revision": "99d6a1e095d238d1d55682947bdc04fa"
   },
   {
     "url": "assets/css/0.styles.694f9356.css",
@@ -310,16 +310,16 @@ self.__precacheManifest = [
     "revision": "5e92d8c7634de49f1c4b890bf34411ca"
   },
   {
-    "url": "assets/js/11.b54b95bb.js",
-    "revision": "4c4600c9dd6a3ac83902c7a65f4f6f80"
+    "url": "assets/js/11.d79f0cb7.js",
+    "revision": "1e37a1589b85a23a32237913753bae2c"
   },
   {
     "url": "assets/js/12.3f0b14c3.js",
     "revision": "6ff63129612574f09cbabc79aae5b631"
   },
   {
-    "url": "assets/js/13.8f7d69d8.js",
-    "revision": "04f3d989fedd44c79ea5589c142ccbfa"
+    "url": "assets/js/13.67a9e161.js",
+    "revision": "9ac81e20b39a5c13e6f1ade19d201289"
   },
   {
     "url": "assets/js/14.3e43ca60.js",
@@ -342,28 +342,28 @@ self.__precacheManifest = [
     "revision": "22944458644d808423750fc8590c170d"
   },
   {
-    "url": "assets/js/5.effd8778.js",
-    "revision": "40b6f89bf8c351660d25f1cdffb2ea3d"
+    "url": "assets/js/5.0b37f156.js",
+    "revision": "72fbef6d2205b8cf27699de8ad3a7ff0"
   },
   {
-    "url": "assets/js/6.4bee7dc0.js",
-    "revision": "b3d5c8a222d5dd7cd8f8681d9c473964"
+    "url": "assets/js/6.70392e21.js",
+    "revision": "fd4df307af91b359f260442d65afa517"
   },
   {
-    "url": "assets/js/7.d03fab61.js",
-    "revision": "f504a8ea1da0699fd80b8827671f4e52"
+    "url": "assets/js/7.667c89ef.js",
+    "revision": "ca423b8fa27ede0e6db5ac3484121d5d"
   },
   {
-    "url": "assets/js/8.a57617a1.js",
-    "revision": "c27825f35ebb91c70eb1cb58ae5ef470"
+    "url": "assets/js/8.6cd0e39e.js",
+    "revision": "8a4656504d66a312b807bfc26b0c3b54"
   },
   {
     "url": "assets/js/9.16f58e21.js",
     "revision": "863ffe963967ba0a92270a7a206f5dd9"
   },
   {
-    "url": "assets/js/app.d37c7429.js",
-    "revision": "44f3885606afa7e8ed1237af47abd412"
+    "url": "assets/js/app.8c4c5b71.js",
+    "revision": "157541b921cf8b0540c9fbb671ff1bee"
   },
   {
     "url": "bit-iot.png",
@@ -371,19 +371,19 @@ self.__precacheManifest = [
   },
   {
     "url": "configure-wifi.html",
-    "revision": "d3425b2e4670c86c0b7b01301ba855c1"
+    "revision": "978294bd5bcfbbade8aa8a2ea0fb6a3e"
   },
   {
     "url": "index.html",
-    "revision": "13cb766e0eb812b3f7f0d4a3377bc981"
+    "revision": "f80436f225c06f06cddd2701a2ecfa98"
   },
   {
     "url": "proctor/faq.html",
-    "revision": "e969bbb764796e5ce64c59ab3c23f6c0"
+    "revision": "16c39041e00141add668e531413a54e0"
   },
   {
     "url": "whats-next.html",
-    "revision": "73d114052695a9344611f384d02c0473"
+    "revision": "38cfb57b84ebabfc05b97f332a8be864"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
