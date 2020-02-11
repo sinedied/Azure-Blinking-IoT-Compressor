@@ -6,7 +6,7 @@ title: 3. Connection au cloud
 
 Jusqu'à présent, vous avez travaillé sur une solution IoT qui a déjà été créée pour 
 vous à l'avance. Dans ce module, nous allons voir comment créer une solution IoT
-complète à l'aide d'[Azure IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub?wt.mc_id=blinkingcompressor-github-chmaneu). 
+complète à l'aide d'[Azure IoT Hub](https://docs.microsoft.com/azure/iot-hub/about-iot-hub?WT.mc_id=msroadshowwinter-event-yolasors). 
 Ce service vous permet de créer de solutions IoT pouvant gérer des millions de devices, tout en vous permettant d'abstraire la complexité de communication avec
 les devices IoT (Internet public, réseaux sigfox ou LoRA, etc...), ainsi que la
 diversité des types de devices (Rasperry Pi, Arduino, microcontrôleurs, PC, Mobiles, ...).
@@ -123,7 +123,7 @@ apparaît alors (avec un numéro séquentiel à la place de 99).
 Dans la prochaine étape, nous allons reconnecter votre Azure Function avec IoT Hub pour qu'elle 
 traite les messages.
 
-[docs-deviceprov]: https://docs.microsoft.com/fr-fr/azure/iot-dps/?wt.mc_id=devroadshowiot-github-chmaneu
+[docs-deviceprov]: https://docs.microsoft.com/azure/iot-dps/?WT.mc_id=msroadshowwinter-event-yolasors
 
 ## Traiter les événement du Hub avec Azure Functions
 
@@ -225,7 +225,7 @@ Service IoT Hub.
 > C'est ce second qu'il faudra utiliser. A ce propos, il existe deux chaines de connexion distinctes.
 > Une pour le device - que vous avez déjà utilisé - et une autre pour le Service SDK. 
 
-Commencez par choisir le [SDK correspondant au langage de votre Azure Function](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks?wt.mc_id=blinkingcompressor-github-chmaneu#azure-iot-hub-service-sdks). A ce jour, il existe des SDKs pour Java, NodeJS, Python, .Net, C et iOs. N'hésitez pas à consulter les fichiers
+Commencez par choisir le [SDK correspondant au langage de votre Azure Function](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-sdks?WT.mc_id=msroadshowwinter-event-yolasors#azure-iot-hub-service-sdks). A ce jour, il existe des SDKs pour Java, NodeJS, Python, .Net, C et iOs. N'hésitez pas à consulter les fichiers
 `README.md` propres à chaque SDK afin de voir comment les appeler dans votre code.
 
 Quelque soit le SDK utilisé, le principe est le même: nous allons modifier le _device twin_ de

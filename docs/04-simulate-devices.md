@@ -39,7 +39,7 @@ On vous laisse tester cette fonctionnalité pendant quelques minutes ;).
 Cette simulation dans VS Code est utile pour des petits tests, mais peut s'avérer fastidieuse
 pour des simulations plus complexes. C'est pourquoi il est possible de coder son propre simulateur.
 
-Pour se faire, il suffit d'utiliser l'un des [device SDKs](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-hub-device-sdks?wt.mc_id=blinkingsimulator-github-chmaneu) dans
+Pour se faire, il suffit d'utiliser l'un des [device SDKs](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-hub-device-sdks?WT.mc_id=msroadshowwinter-event-yolasors) dans
 un nouveau projet (page web, application console, application mobile, etc...).
 
 Vous pouvez alors coder une petite application qui va envoyer toutes les 5 secondes un nouvel événement, 

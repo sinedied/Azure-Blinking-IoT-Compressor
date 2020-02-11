@@ -96,10 +96,10 @@ Vous pouvez également [développer votre fonction dans Visual Studio Code](#cre
 ### Créer l'application
 
 Avant de créer une fonction, vous devez tout d'abord créer un application. Depuis le 
-[portail Azure](https://portal.azure.com?wt.mc_id=blinkingcompressor-github-chmaneu)
+[portail Azure](https://portal.azure.com?WT.mc_id=msroadshowwinter-event-yolasors)
 , cliquez sur le bouton (+) en haut à gauche, recherchez "function" et choisissez "Function App". Vous pouvez également
 utiliser le 
-[lien direct](https://portal.azure.com/?feature.customportal=false&wt.mc_id=blinkingcompressor-github-chmaneu#create/Microsoft.FunctionApp)
+[lien direct](https://portal.azure.com/?feature.customportal=false&WT.mc_id=msroadshowwinter-event-yolasors#create/Microsoft.FunctionApp)
 
 ![](./img/function-create-09.png)
 

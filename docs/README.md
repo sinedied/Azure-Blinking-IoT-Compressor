@@ -55,5 +55,5 @@ _Ce workshop a été réalisé par l'équipe des relations développeurs Microso
 
 
 
-[mxchip]: https://aka.ms/iot-devkit?wt.mc_id=blinkingcompressor-github-chmaneu
-[mxchip-buy]: https://aka.ms/iot-devkit-purchase?wt.mc_id=blinkingcompressor-github-chmaneu
+[mxchip]: https://aka.ms/iot-devkit?WT.mc_id=msroadshowwinter-event-yolasors
+[mxchip-buy]: https://aka.ms/iot-devkit-purchase?WT.mc_id=msroadshowwinter-event-yolasors

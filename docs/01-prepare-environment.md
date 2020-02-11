@@ -101,7 +101,7 @@ Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#�
 ### Je suis un abonné Visual Studio / MSDN
 
 Vous avez accès à un crédit mensuel gratuit dans le cadre de votre abonnement. Si vous ne l'avez pas déjà activé,
-il suffit d'aller sur la [page dédiée](https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers/?wt.mc_id=blinkingcompressor-github-chmaneu)
+il suffit d'aller sur la [page dédiée](https://azure.microsoft.com/pricing/member-offers/credit-for-visual-studio-subscribers/?WT.mc_id=msroadshowwinter-event-yolasors)
 puis de cliquer sur le bouton **activer**.
 
 Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#✅-verifions-si-votre-compte-azure-a-bien-ete-cree).
@@ -129,10 +129,10 @@ l'élément ![](./img/check-01.png)
 
 **Félicitations**, vous pouvez désormais passer au module suivant 🥳
 
-[azurepass]: https://www.microsoftazurepass.com/?wt.mc_id=blinkingcompressor-github-chmaneu
-[azure-portal]: https://portal.azure.com/?feature.customportal=false&wt.mc_id=blinkingcompressor-github-chmaneu
-[azure-free-trial]: https://azure.microsoft.com/en-us/free/?wt.mc_id=blinkingcompressor-github-chmaneu
-[azure-student]: https://azure.microsoft.com/en-us/free/students/?wt.mc_id=blinkingcompressor-github-chmaneu
+[azurepass]: https://www.microsoftazurepass.com/?WT.mc_id=msroadshowwinter-event-yolasors
+[azure-portal]: https://portal.azure.com/?feature.customportal=false&WT.mc_id=msroadshowwinter-event-yolasors
+[azure-free-trial]: https://azure.microsoft.com/free/?WT.mc_id=msroadshowwinter-event-yolasors
+[azure-student]: https://azure.microsoft.com/free/students/?WT.mc_id=msroadshowwinter-event-yolasors
 
 ## Configurer son environnement de développement
 
@@ -150,9 +150,9 @@ développement:
         - Java
         - JavaScript/NodeJS est déjà inclus :)
 
-[vscode-home]: https://code.visualstudio.com/?wt.mc_id=blinkingcompressor-github-chmaneu
-[vscode-azureext]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&wt.mc_id=blinkingcompressor-github-chmaneu
-[vscode-csharpext]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp&wt.mc_id=blinkingcompressor-github-chmaneu    
+[vscode-home]: https://code.visualstudio.com/?WT.mc_id=msroadshowwinter-event-yolasors
+[vscode-azureext]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&WT.mc_id=msroadshowwinter-event-yolasors
+[vscode-csharpext]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp&WT.mc_id=msroadshowwinter-event-yolasors    
 
 ### Module _Connectez vos devices IoT au Cloud_
 
@@ -239,8 +239,8 @@ Votre board est normalement déjà configurée. Si vous deviez la reconnecter au
 
 
 [arduino]: https://www.arduino.cc
-[vscode-csharpext]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp&wt.mc_id=blinkingcompressor-github-chmaneu
+[vscode-csharpext]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp&WT.mc_id=msroadshowwinter-event-yolasors
 [arduino-ide]: https://www.arduino.cc/en/Main/Software
-[vscode-iottoolsext]: https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-tools&wt.mc_id=blinkingcompressor-github-chmaneu
-[vscode-arduinoext]: https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino&wt.mc_id=blinkingcompressor-github-chmaneu
-[vscode-azureext]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&wt.mc_id=blinkingcompressor-github-chmaneu
+[vscode-iottoolsext]: https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-tools&WT.mc_id=msroadshowwinter-event-yolasors
+[vscode-arduinoext]: https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino&WT.mc_id=msroadshowwinter-event-yolasors
+[vscode-azureext]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&WT.mc_id=msroadshowwinter-event-yolasors
