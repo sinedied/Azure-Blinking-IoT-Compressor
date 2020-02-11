@@ -1,4 +1,9 @@
-# Workshop "Azure Blinking IoT Compressor"
+---
+title: Introduction
+---
+![](bit-iot.png =300x)
+
+# Workshop Azure IoT
 
 Bienvenue dans le workshop Azure IoT "Blinking Compressor".
 L'objectif de ce workshop est de vous faire découvrir les bases de la création
@@ -23,7 +28,7 @@ de solutions IoT avec le cloud Microsoft Azure.
 Mon club de plongée a besoin de vous ! Afin de remplir nos bouteilles de plongées, nous avons un compresseur d'air
 pouvant monter jusqu'à 300 bar. Voici à quoi cela ressemble.
 
-![](img/compresseur-1.jpg)
+![](./img/compresseur-1.jpg)
 
 Afin que cet équipement continue de fonctionner et d'avoir un air de qualité, nous avons besoin de réaliser 
 régulièrement des opérations de maintenance dessus (changement des filtres, révisions, etc...). Pour savoir quand
@@ -31,7 +36,7 @@ les réaliser, il suffit _normalement_ de consulter le **logbook** de l'appareil
 classeur papier dans lequel chaque utilisateur doit noter un certain nombre d'informations, permettant de connaître 
 le temps de fonctionnement.
 
-![](img/compresseur-3.jpg)
+![](./img/compresseur-3.jpg)
 
 Mais voilà: la plupart des utilisateurs sont des bénévoles. La partie administrative n'est pas celle qu'ils préfèrent le
 plus :angel:. Ce n'est pas rare de constater que ce classeur n'a pas été rempli depuis plusieurs semaines ! Et si les solutions IoT pouvaient nous aider ?
@@ -41,21 +46,7 @@ l'est pas! L'objectif final est de remplir de manière automatique le _logbook_ 
 que le compresseur s'allume ou s'eteint. Pour se faire, nous allons utiliser les données des capteurs
 de la borne - température, pression, accéléromètre, son, ... - pour faire cette détection.
 
-![](img/schema-arch.png)
-
-
-<div style="width: 200px; margin: auto; border:solid 2px blue; text-align: center; font-size: 140%; font-decoration: none !important; color: green !important; background-color: white;">
-
-[Commencer le workshop !](01-prepare-environment/index.md)
-
-</div>
-
-
-<div style="text-align: center;">
-
-![](/img/BIT_IoT.png ':size=200%')
-
-</div>
+![](./img/schema-arch.png)
 
 _Ce workshop a été réalisé par l'équipe des relations développeurs Microsoft France:_ 
 - [@cmaneu](https://twitter.com/cmaneu) - Cloud Advocate,

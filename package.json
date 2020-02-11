@@ -1,0 +1,34 @@
+{
+  "name": "azure-iot-workshop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {
+    "@dovyp/vuepress-plugin-clipboard-copy": "^1.0.0-alpha.7",
+    "@limdongjin/vuepress-plugin-simple-seo": "^1.0.4-alpha.5",
+    "@vuepress/plugin-active-header-links": "^1.3.0",
+    "@vuepress/plugin-google-analytics": "^1.3.0",
+    "@vuepress/plugin-medium-zoom": "^1.3.0",
+    "@vuepress/plugin-pwa": "^1.3.0",
+    "dotenv": "^8.2.0",
+    "gh-pages": "^2.2.0",
+    "markdown-it-imsize": "^2.0.1",
+    "vuepress": "^1.3.0",
+    "vuepress-plugin-code-copy": "^1.0.4",
+    "vuepress-plugin-container": "^2.1.2",
+    "vuepress-plugin-social-share": "^0.2.0"
+  },
+  "scripts": {
+    "start": "vuepress dev docs --no-cache",
+    "build": "vuepress build docs -d dist",
+    "deploy": "gh-pages -d dist",
+    "release": "npm run build -s && npm run deploy -s"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
