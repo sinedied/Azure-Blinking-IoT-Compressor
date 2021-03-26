@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dotenv/types').config();
 
 module.exports = {
   title: 'Azure IoT workshop',
@@ -35,7 +35,7 @@ module.exports = {
     ['social-share', {
       noGlobalSocialShare: true,
       networks: ['twitter', 'facebook', 'reddit', 'linkedin', 'whatsapp'],
-      twitterUser: 'chmaneu',
+      twitterUser: 'cmaneu',
       fallbackImage: 'https://sinedied.github.io/iot-workshop/bit-iot.png',
       autoQuote: true,
       extendsNetworks: {
@@ -62,8 +62,8 @@ module.exports = {
       default_image: '/bit-iot.png',
       root_url: 'https://sinedied.github.io/iot-workshop',
       default_site_name: 'Azure IoT Workshop',
-      default_twitter_creator: '@chmaneu',
-      default_twitter_site: '@chmaneu',
+      default_twitter_creator: '@cmaneu',
+      default_twitter_site: '@cmaneu',
       default_og_type: 'website'
     }],
     ['@vuepress/medium-zoom', {
